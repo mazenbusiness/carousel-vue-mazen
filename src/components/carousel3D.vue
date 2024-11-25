@@ -1,6 +1,5 @@
 <template>
   <!-- bind the swipe event, no matter direction -->
-<span v-touch:swipe="swipeHandler">Swipe Here</span>
   <div class="container">
     <div class="carousel-container"  @mousedown="(event) => console.log(event)">
       <div
