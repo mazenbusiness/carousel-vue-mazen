@@ -35,7 +35,6 @@
 
 <script>
 import CarouselCard from "./carouselCard.vue";
-import Vue2TouchEvents from 'vue2-touch-events'
 
 export default {
   name: "carousel3D",
